@@ -1,0 +1,2 @@
+# ReactTernaryOperator
+Created with CodeSandbox
